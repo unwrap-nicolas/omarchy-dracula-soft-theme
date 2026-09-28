@@ -1,0 +1,36 @@
+# Dracula Soft: the Dracula palette with lower contrast, for long sessions.
+# Text contrast is ~8.4:1 (original Dracula is ~13.4:1); every accent stays above 4.5:1.
+mode = "dark"
+
+accent = "#93cedc"
+selection = "#44475a"
+muted = "#6d7699"
+
+background = "#2b2d3a"
+dark_background = "#252733"
+darker_background = "#1f2029"
+lighter_background = "#363849"
+
+foreground = "#c9cad6"
+dark_foreground = "#6d7699"
+light_foreground = "#c9cad6"
+bright_foreground = "#dcdde6"
+
+red = "#e38383"
+yellow = "#d9dba0"
+orange = "#e0b387"
+green = "#8fcf9f"
+cyan = "#93cedc"
+blue = "#b09ae0"
+magenta = "#dc93c0"
+brown = "#a08c88"
+
+bright_red = "#eb9696"
+bright_yellow = "#e4e5b4"
+bright_green = "#a3dbb1"
+bright_cyan = "#a8dae5"
+bright_blue = "#c0aee8"
+bright_magenta = "#e6a8ce"
+
+hyprland_active_border = "rgba(93cedcee) rgba(b09ae0ee) 45deg"
+hyprland_inactive_border = "rgba(68,71,90,0.8)"
